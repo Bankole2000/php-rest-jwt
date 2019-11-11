@@ -12,7 +12,7 @@ _<p align="center">"**Hey!** Hold it right there big guy... Where do you think *
 
 ## What it is
 
-An very basic, well-commented, learning oriented, basic Restful API with JWT Auth implementation for User access Management. Built with:
+A simple, well-commented, learning oriented, basic Restful API with JWT Auth implementation for User access Management. Built with:
 
 - PHP 🐘
 - MySQL
