@@ -1,6 +1,6 @@
 # PHP REST API with JWT Auth
 
-⭐️🔏 An SPA implementation of RESTful API with PHP, MySQL and JWT Authentication - [View Documentation](https://bankole2000.github.io/php-rest-jwt/blob/master/README.md)
+⭐️🔏 An SPA implementation of RESTful API with PHP, MySQL and JWT Authentication - [View Documentation](https://github.com/bankole2000/php-rest-jwt/blob/master/README.md)
 
 [![Practice](https://img.shields.io/badge/Practice-PHP-purple.svg)]()
 
