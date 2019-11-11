@@ -60,8 +60,7 @@ Some Ideas in my head:
 Contributions are highly welcome. Feel free to fork, clone, make pull requests, report issues etc.
 
 ## Acknowledgments
-
-- Many thanks to the [Code of a Ninja](https://www.codeofaninja.com) ❤️😎  for such a cool tutorial (among many others)
+- Many thanks to the [Code of a Ninja](https://www.codeofaninja.com) ❤️😎  website for such a cool tutorial (among many others)
 - Thanks to [@torvalds](https://github.com/torvalds) 🙏 For Making the world a better place
 - And To anyone reading this... _You're awesome!_
 
