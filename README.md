@@ -23,10 +23,10 @@ A simple, well-commented, learning oriented, basic Restful API with JWT Auth imp
 - CSS
 
 ## :electric_plug: What it does
-Features 1 basic resources - **Users** and API endpoints to handle basic User Requests;
+Features 1 basic resource - **Users** and API endpoints to handle basic User Requests;
 - _Post_ Register a new User and Generate JWT
 - _Get_ Get User Data for updating on Account Page
-- _Update_ user Account on Accound Page 
+- _Update_ user Account on Account Page 
 * 🙎 User Authentication
 * 🔏Protected Routes
 * 📃Handling Multiform data
@@ -62,7 +62,7 @@ Contributions are highly welcome. Feel free to fork, clone, make pull requests, 
 ## Acknowledgments
 - Many thanks to the [Code of a Ninja](https://www.codeofaninja.com) ❤️😎  website for such a cool tutorial (among many others)
 - Thanks to [@torvalds](https://github.com/torvalds) 🙏 For Making the world a better place
-- And To anyone reading this... _You're awesome!_
+- And To anyone reading this... _You're awesome!_ 👊
 
 That being said
 _<p align="center">Adieu, Come with me, let us go to the world of back end tokens and be RESTfully authenticated_  🕺🔏🚪 😄</p>
