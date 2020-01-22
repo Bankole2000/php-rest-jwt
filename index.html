@@ -99,6 +99,7 @@ $(document).on('submit', '#sign_up_form', function(){
  // get form data
  var sign_up_form=$(this);
  var form_data=JSON.stringify(sign_up_form.serializeObject());
+ console.log(form_data);
 
  // submit form data to api
  $.ajax({
@@ -282,7 +283,7 @@ function showUpdateAccountForm(){
     // validate jwt to verify access
     var jwt = getCookie('jwt');
     $.post("api/validate_token.php", JSON.stringify({ jwt:jwt })).done(function(result) {
- 
+        console.log(result);
         // html form for updating user account will be here
         // if response is valid, put user details in the form
 var html = `
