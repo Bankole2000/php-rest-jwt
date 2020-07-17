@@ -5,8 +5,8 @@ class Database{
     // specify your own database credentials
     private $host = "localhost";
     private $db_name = "phprestjwt";
-    private $username = "Bankole"; 
-    private $password = ""; // Database User Password goes here
+    private $username = "root"; 
+    private $password = "root"; // Database User Password goes here
     public $conn;
  
     // get the database connection
@@ -23,4 +23,3 @@ class Database{
         return $this->conn;
     }
 }
-?>
